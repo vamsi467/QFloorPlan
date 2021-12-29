@@ -1,0 +1,7 @@
+{
+	"_class" : "com.floormap.model.Department",
+	"_id" : NumberLong(1),
+	"color" : "Blue",
+	"description" : "ted",
+	"name" : "TED"
+},

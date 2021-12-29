@@ -1,0 +1,8 @@
+{
+	"_id" : "employee_sequence",
+	"seq" : 1
+},
+{
+	"_id" : "department_sequence",
+	"seq" : NumberInt(1)
+},

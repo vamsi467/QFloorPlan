@@ -1,0 +1,71 @@
+{
+	"_class" : "com.floormap.model.Employee",
+	"_id" : NumberLong(1),
+	"accessCardNo" : "343243",
+	"assets" : [
+		{
+			"assetType" : "Laptop",
+			"assetNo" : "HW 0240"
+		}
+	],
+	"awards" : [
+		"1",
+		"2"
+	],
+	"bandwidth" : true,
+	"departments" : [
+		{
+			"departmentId" : NumberInt(1),
+			"startDate" : "2010-02-12",
+			"endDate" : "2020-01-02"
+		},
+		{
+			"departmentId" : NumberInt(2),
+			"startDate" : "2010-02-12",
+			"endDate" : "2020-01-02"
+		}
+	],
+	"designations" : [
+		{
+			"title" : "SE",
+			"effectiveFrom" : "2020-01-02"
+		}
+	],
+	"deskNo" : "1",
+	"emailId" : "sunil@gmail.com",
+	"experience" : 6,
+	"lnd" : [
+		"java",
+		"spring"
+	],
+	"lockerNo" : "201",
+	"profilePicId" : "12",
+	"responsibilities" : [
+		"AC remote operator",
+		"water supplier"
+	],
+	"salary" : {
+		"currentSalary" : 1000,
+		"increments" : [
+			{
+				"percentage" : 10,
+				"effectiveFrom" : "2019-02-02"
+			},
+			{
+				"percentage" : 30,
+				"effectiveFrom" : "2020-04-02"
+			}
+		]
+	},
+	"shift" : {
+		"name" : "day"
+	},
+	"skills" : [
+		{
+			"name" : "java",
+			"certification" : true,
+			"likeToWork" : true,
+			"teach" : true
+		}
+	]
+},

@@ -1,0 +1,292 @@
+[
+  {
+    "deskNo": 1,
+    "lockerNo": 201,
+    "assets": [{ "assetType": "Laptop", "assetNo": "HW 0240" }],
+    "accessCardNo": 343243,
+    "emailId": "sunil@gmail.com",
+    "profilePicId": 12,
+    "designations": [{ "title": "SE", "effectiveFrom": "2020-01-02" }],
+    "departments": [
+      { "departmentId": 1, "startDate": "2010-02-12", "endDate": "2020-01-02" },
+      { "departmentId": 2, "startDate": "2010-02-12", "endDate": "2020-01-02" }
+    ],
+    "skills": [
+      { "name": "java", "certification": 1, "teach": 1, "likeToWork": 1 }
+    ],
+    "shift": { "name": "day" },
+    "salary": {
+      "currentSalary": 1000,
+      "increments": [
+        { "percentage": 10, "effectiveFrom": "2019-02-02" },
+        { "percentage": 30, "effectiveFrom": "2020-04-02" }
+      ]
+    },
+    "awards": [1, 2],
+    "experience": 6,
+    "lnd": ["java", "spring"],
+    "responsibilities": ["AC remote operator", "water supplier"],
+    "bandwidth": 1
+  },
+  {
+    "deskNo": 1,
+    "lockerNo": 201,
+    "assets": [{ "assetType": "Laptop", "assetNo": "HW 0240" }],
+    "accessCardNo": 343243,
+    "emailId": "sunil@gmail.com",
+    "profilePicId": 12,
+    "designations": [{ "title": "SE", "effectiveFrom": "2020-01-02" }],
+    "departments": [
+      { "departmentId": 1, "startDate": "2010-02-12", "endDate": "2020-01-02" },
+      { "departmentId": 2, "startDate": "2010-02-12", "endDate": "2020-01-02" }
+    ],
+    "skills": [
+      { "name": "java", "certification": 1, "teach": 1, "likeToWork": 1 }
+    ],
+    "shift": { "name": "day" },
+    "salary": {
+      "currentSalary": 1000,
+      "increments": [
+        { "percentage": 10, "effectiveFrom": "2019-02-02" },
+        { "percentage": 30, "effectiveFrom": "2020-04-02" }
+      ]
+    },
+    "awards": [1, 2],
+    "experience": 6,
+    "lnd": ["java", "spring"],
+    "responsibilities": ["AC remote operator", "water supplier"],
+    "bandwidth": 1
+  },
+  {
+    "deskNo": 1,
+    "lockerNo": 201,
+    "assets": [{ "assetType": "Laptop", "assetNo": "HW 0240" }],
+    "accessCardNo": 343243,
+    "emailId": "sunil@gmail.com",
+    "profilePicId": 12,
+    "designations": [{ "title": "SE", "effectiveFrom": "2020-01-02" }],
+    "departments": [
+      { "departmentId": 1, "startDate": "2010-02-12", "endDate": "2020-01-02" },
+      { "departmentId": 2, "startDate": "2010-02-12", "endDate": "2020-01-02" }
+    ],
+    "skills": [
+      { "name": "java", "certification": 1, "teach": 1, "likeToWork": 1 }
+    ],
+    "shift": { "name": "day" },
+    "salary": {
+      "currentSalary": 1000,
+      "increments": [
+        { "percentage": 10, "effectiveFrom": "2019-02-02" },
+        { "percentage": 30, "effectiveFrom": "2020-04-02" }
+      ]
+    },
+    "awards": [1, 2],
+    "experience": 6,
+    "lnd": ["java", "spring"],
+    "responsibilities": ["AC remote operator", "water supplier"],
+    "bandwidth": 1
+  },
+  {
+    "deskNo": 1,
+    "lockerNo": 201,
+    "assets": [{ "assetType": "Laptop", "assetNo": "HW 0240" }],
+    "accessCardNo": 343243,
+    "emailId": "sunil@gmail.com",
+    "profilePicId": 12,
+    "designations": [{ "title": "SE", "effectiveFrom": "2020-01-02" }],
+    "departments": [
+      { "departmentId": 1, "startDate": "2010-02-12", "endDate": "2020-01-02" },
+      { "departmentId": 2, "startDate": "2010-02-12", "endDate": "2020-01-02" }
+    ],
+    "skills": [
+      { "name": "java", "certification": 1, "teach": 1, "likeToWork": 1 }
+    ],
+    "shift": { "name": "day" },
+    "salary": {
+      "currentSalary": 1000,
+      "increments": [
+        { "percentage": 10, "effectiveFrom": "2019-02-02" },
+        { "percentage": 30, "effectiveFrom": "2020-04-02" }
+      ]
+    },
+    "awards": [1, 2],
+    "experience": 6,
+    "lnd": ["java", "spring"],
+    "responsibilities": ["AC remote operator", "water supplier"],
+    "bandwidth": 1
+  },
+  {
+    "deskNo": 1,
+    "lockerNo": 201,
+    "assets": [{ "assetType": "Laptop", "assetNo": "HW 0240" }],
+    "accessCardNo": 343243,
+    "emailId": "sunil@gmail.com",
+    "profilePicId": 12,
+    "designations": [{ "title": "SE", "effectiveFrom": "2020-01-02" }],
+    "departments": [
+      { "departmentId": 1, "startDate": "2010-02-12", "endDate": "2020-01-02" },
+      { "departmentId": 2, "startDate": "2010-02-12", "endDate": "2020-01-02" }
+    ],
+    "skills": [
+      { "name": "java", "certification": 1, "teach": 1, "likeToWork": 1 }
+    ],
+    "shift": { "name": "day" },
+    "salary": {
+      "currentSalary": 1000,
+      "increments": [
+        { "percentage": 10, "effectiveFrom": "2019-02-02" },
+        { "percentage": 30, "effectiveFrom": "2020-04-02" }
+      ]
+    },
+    "awards": [1, 2],
+    "experience": 6,
+    "lnd": ["java", "spring"],
+    "responsibilities": ["AC remote operator", "water supplier"],
+    "bandwidth": 1
+  },
+  {
+    "deskNo": 1,
+    "lockerNo": 201,
+    "assets": [{ "assetType": "Laptop", "assetNo": "HW 0240" }],
+    "accessCardNo": 343243,
+    "emailId": "sunil@gmail.com",
+    "profilePicId": 12,
+    "designations": [{ "title": "SE", "effectiveFrom": "2020-01-02" }],
+    "departments": [
+      { "departmentId": 1, "startDate": "2010-02-12", "endDate": "2020-01-02" },
+      { "departmentId": 2, "startDate": "2010-02-12", "endDate": "2020-01-02" }
+    ],
+    "skills": [
+      { "name": "java", "certification": 1, "teach": 1, "likeToWork": 1 }
+    ],
+    "shift": { "name": "day" },
+    "salary": {
+      "currentSalary": 1000,
+      "increments": [
+        { "percentage": 10, "effectiveFrom": "2019-02-02" },
+        { "percentage": 30, "effectiveFrom": "2020-04-02" }
+      ]
+    },
+    "awards": [1, 2],
+    "experience": 6,
+    "lnd": ["java", "spring"],
+    "responsibilities": ["AC remote operator", "water supplier"],
+    "bandwidth": 1
+  },
+  {
+    "deskNo": 1,
+    "lockerNo": 201,
+    "assets": [{ "assetType": "Laptop", "assetNo": "HW 0240" }],
+    "accessCardNo": 343243,
+    "emailId": "sunil@gmail.com",
+    "profilePicId": 12,
+    "designations": [{ "title": "SE", "effectiveFrom": "2020-01-02" }],
+    "departments": [
+      { "departmentId": 1, "startDate": "2010-02-12", "endDate": "2020-01-02" },
+      { "departmentId": 2, "startDate": "2010-02-12", "endDate": "2020-01-02" }
+    ],
+    "skills": [
+      { "name": "java", "certification": 1, "teach": 1, "likeToWork": 1 }
+    ],
+    "shift": { "name": "day" },
+    "salary": {
+      "currentSalary": 1000,
+      "increments": [
+        { "percentage": 10, "effectiveFrom": "2019-02-02" },
+        { "percentage": 30, "effectiveFrom": "2020-04-02" }
+      ]
+    },
+    "awards": [1, 2],
+    "experience": 6,
+    "lnd": ["java", "spring"],
+    "responsibilities": ["AC remote operator", "water supplier"],
+    "bandwidth": 1
+  },
+  {
+    "deskNo": 1,
+    "lockerNo": 201,
+    "assets": [{ "assetType": "Laptop", "assetNo": "HW 0240" }],
+    "accessCardNo": 343243,
+    "emailId": "sunil@gmail.com",
+    "profilePicId": 12,
+    "designations": [{ "title": "SE", "effectiveFrom": "2020-01-02" }],
+    "departments": [
+      { "departmentId": 1, "startDate": "2010-02-12", "endDate": "2020-01-02" },
+      { "departmentId": 2, "startDate": "2010-02-12", "endDate": "2020-01-02" }
+    ],
+    "skills": [
+      { "name": "java", "certification": 1, "teach": 1, "likeToWork": 1 }
+    ],
+    "shift": { "name": "day" },
+    "salary": {
+      "currentSalary": 1000,
+      "increments": [
+        { "percentage": 10, "effectiveFrom": "2019-02-02" },
+        { "percentage": 30, "effectiveFrom": "2020-04-02" }
+      ]
+    },
+    "awards": [1, 2],
+    "experience": 6,
+    "lnd": ["java", "spring"],
+    "responsibilities": ["AC remote operator", "water supplier"],
+    "bandwidth": 1
+  },
+  {
+    "deskNo": 1,
+    "lockerNo": 201,
+    "assets": [{ "assetType": "Laptop", "assetNo": "HW 0240" }],
+    "accessCardNo": 343243,
+    "emailId": "sunil@gmail.com",
+    "profilePicId": 12,
+    "designations": [{ "title": "SE", "effectiveFrom": "2020-01-02" }],
+    "departments": [
+      { "departmentId": 1, "startDate": "2010-02-12", "endDate": "2020-01-02" },
+      { "departmentId": 2, "startDate": "2010-02-12", "endDate": "2020-01-02" }
+    ],
+    "skills": [
+      { "name": "java", "certification": 1, "teach": 1, "likeToWork": 1 }
+    ],
+    "shift": { "name": "day" },
+    "salary": {
+      "currentSalary": 1000,
+      "increments": [
+        { "percentage": 10, "effectiveFrom": "2019-02-02" },
+        { "percentage": 30, "effectiveFrom": "2020-04-02" }
+      ]
+    },
+    "awards": [1, 2],
+    "experience": 6,
+    "lnd": ["java", "spring"],
+    "responsibilities": ["AC remote operator", "water supplier"],
+    "bandwidth": 1
+  },
+  {
+    "deskNo": 1,
+    "lockerNo": 201,
+    "assets": [{ "assetType": "Laptop", "assetNo": "HW 0240" }],
+    "accessCardNo": 343243,
+    "emailId": "sunil@gmail.com",
+    "profilePicId": 12,
+    "designations": [{ "title": "SE", "effectiveFrom": "2020-01-02" }],
+    "departments": [
+      { "departmentId": 1, "startDate": "2010-02-12", "endDate": "2020-01-02" },
+      { "departmentId": 2, "startDate": "2010-02-12", "endDate": "2020-01-02" }
+    ],
+    "skills": [
+      { "name": "java", "certification": 1, "teach": 1, "likeToWork": 1 }
+    ],
+    "shift": { "name": "day" },
+    "salary": {
+      "currentSalary": 1000,
+      "increments": [
+        { "percentage": 10, "effectiveFrom": "2019-02-02" },
+        { "percentage": 30, "effectiveFrom": "2020-04-02" }
+      ]
+    },
+    "awards": [1, 2],
+    "experience": 6,
+    "lnd": ["java", "spring"],
+    "responsibilities": ["AC remote operator", "water supplier"],
+    "bandwidth": 1
+  }
+]
